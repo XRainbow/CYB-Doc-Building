@@ -14,7 +14,7 @@
   * [4.3 成交订单编辑](4/43-cheng-jiao-ding-dan-bian-ji.md)
 * [5. 开发商充佣宝开户](5.md)
   * [5.1 资料收集](5/51-zi-liao-shou-ji.md)
-  * 5.2 资料上传
+  * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
   * 5.3 资料审核
   * 5.4 开户验证
 
