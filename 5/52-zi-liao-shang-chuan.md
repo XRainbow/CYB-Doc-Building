@@ -14,9 +14,7 @@
 
 点击「充佣宝」-选择「充佣宝开户」，点击「融资开户」，进入信息编辑界面
 
-
-
-
+![](/assets/import.png授权3)
 
 ### 3）资料pdf上传，以下为上传内容项
 
@@ -32,13 +30,15 @@
 
 * 法定代表人身份证复印件
 
+![](/assets/import.png授权4)
+
 ### 4）企业信用资料查询，截图，上传
 
 * 国家企业信用信息查询网址：[http://www.gsxt.gov.cn/index.html](http://www.gsxt.gov.cn/index.html)
 
 * 启信宝查询网址：[https://www.qixin.com/](https://www.qixin.com/)
 
+![](/assets/import.png5)
 
-
-
+![](/assets/import.png企业6)
 
