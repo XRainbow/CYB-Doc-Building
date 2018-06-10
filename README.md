@@ -1,3 +1,12 @@
-# My Awesome Book
+# ![](/assets/import.png销冠)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 销冠体系外丨开发商充佣宝业务操作手册
+
+#### “充佣宝”是销冠科技联合实力资金方共同推出的为代理商待收佣金快速贴现的革新金融产品。
+
+#### 充佣宝解决了由信贷政策带来的现金流压力，提升营销力、同时促进开发商商项目快速去化，实现经纪代理商应收账款提前变现金融产品
+
+# 充佣宝业务模式
+
+
+
