@@ -22,6 +22,6 @@
   * [6.2 订单签约](6/62-ding-dan-qian-yue.md)
   * [6.3 订单审核](6/63-ding-dan-shen-he.md)
   * [6.4 进件放款](6/64-jin-jian-fang-kuan.md)
-  * 6.5 开票支付
+  * [6.5 开票支付](6/65-kai-piao-zhi-fu.md)
 * [7. 开发商充佣宝还款](7.md)
 
