@@ -1,4 +1,4 @@
-# ![](/assets/import.pnglogo)
+# ![](/assets/import.png销冠)
 
 # 销冠体系外丨开发商充佣宝操作手册试行V.1.0版
 
@@ -9,7 +9,7 @@
 
 # 充佣宝业务模式
 
-# ![](/assets/import.png业务模式)充佣宝业务流程![](/assets/import.pngliucheng )
+# ![](/assets/import.png业务模式)充佣宝业务流程
 
-
+![](/assets/import.png流程)
 
