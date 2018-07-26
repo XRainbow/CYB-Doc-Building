@@ -1,7 +1,7 @@
 # Summary
 
-* [1.开发商充佣宝简介](README.md)
-* [2. 开发商充佣宝业务流程](chapter1.md)
+* [1.销冠充佣宝简介](README.md)
+* [2. 销冠充佣宝业务流程](chapter1.md)
 * [3. 岗位职能及工作标准](2.md)
 * [4. 开发商充佣宝入驻](3.md)
   * [4.1 开发商企业创建](3/31-kai-fa-shang-he-tong-chuang-jian.md)
