@@ -11,7 +11,7 @@
   * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
   * [5.3 资料审核](5/53-zi-liao-shen-he.md)
   * [5.4 开户验证](5/54-kai-hu-yan-zheng.md)
-* [6. 成交导入](4.md)
+* [6. 订单管理](4.md)
   * [6.1 成交订单导入](4/41-cheng-jiao-ding-dan-dao-ru.md)
   * [6.2 成交订单审核](4/42-cheng-jiao-ding-dan-shen-he.md)
   * [6.3 成交订单编辑](4/43-cheng-jiao-ding-dan-bian-ji.md)
