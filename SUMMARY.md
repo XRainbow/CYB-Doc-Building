@@ -4,7 +4,7 @@
 * [2. 销冠充佣宝业务流程](chapter1.md)
 * [3. 工作职能及作业标准](2.md)
 * [4. 充佣宝入驻](3.md)
-  * [4.1 充用宝合同上线](3/31-kai-fa-shang-he-tong-chuang-jian.md)
+  * [4.1 合同上线](3/31-kai-fa-shang-he-tong-chuang-jian.md)
   * [4.2 代理商入驻](3/34-dai-li-shang-ru-zhu.md)
 * [5. 充佣宝开户](5.md)
   * [5.1 资料收集](5/51-zi-liao-shou-ji.md)
