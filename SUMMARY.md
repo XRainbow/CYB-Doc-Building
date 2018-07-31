@@ -1,7 +1,7 @@
 # Summary
 
-* [1.销冠充佣宝简介](README.md)
-  * 充佣宝操作手册试行V1.2版目录
+* [销冠充佣宝操作手册V1.2版](cao-zuo-shou.md)
+* [1. 销冠充佣宝简介](README.md)
 * [2. 销冠充佣宝业务流程](chapter1.md)
 * [3. 工作职能及作业标准](2.md)
 * [4. 充佣宝入驻](3.md)
@@ -27,5 +27,5 @@
   * [8.1 充佣宝回款](7/81-chong-yong-bao-hui-kuan.md)
   * [8.2 充佣宝还款](7/82-chong-yong-bao-huan-kuan.md)
 * [9. 充佣宝原件管理](8.md)
-* [10. 充佣宝资料变更管理](9.md)
+* [操作手](cao-zuo-shou.md)
 
