@@ -1,6 +1,7 @@
 # Summary
 
 * [1.销冠充佣宝简介](README.md)
+  * 充佣宝操作手册试行V1.2版目录
 * [2. 销冠充佣宝业务流程](chapter1.md)
 * [3. 工作职能及作业标准](2.md)
 * [4. 充佣宝入驻](3.md)
@@ -11,7 +12,7 @@
   * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
   * [5.3 资料审核](5/53-zi-liao-shen-he.md)
   * [5.4 开户验证](5/54-kai-hu-yan-zheng.md)
-* [6. 订单管理](4.md)
+* [6. 充佣宝订单管理](4.md)
   * [6.1 成交订单导入](4/41-cheng-jiao-ding-dan-dao-ru.md)
   * [6.2 成交订单审核](4/42-cheng-jiao-ding-dan-shen-he.md)
   * [6.3 成交订单编辑](4/43-cheng-jiao-ding-dan-bian-ji.md)
@@ -22,9 +23,9 @@
   * [7.3 订单审核](6/63-ding-dan-shen-he.md)
   * [7.4 进件放款](6/64-jin-jian-fang-kuan.md)
   * [7.5 充佣宝打款](6/65-kai-piao-zhi-fu.md)
-* [8. 回款还款](7.md)
+* [8. 充佣宝回款还款](7.md)
   * [8.1 充佣宝回款](7/81-chong-yong-bao-hui-kuan.md)
-  * 8.2 充佣宝还款
-* [9. 充佣宝原件邮寄](8.md)
-* [10. 充佣宝资料更新流程](9.md)
+  * [8.2 充佣宝还款](7/82-chong-yong-bao-huan-kuan.md)
+* [9. 充佣宝原件管理](8.md)
+* [10. 充佣宝资料变更管理](9.md)
 
