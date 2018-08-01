@@ -6,7 +6,7 @@
 * [3. 工作职能及作业标准](2.md)
 * [4. 充佣宝入驻](3.md)
   * [4.1 合同上线](3/31-kai-fa-shang-he-tong-chuang-jian.md)
-  * [4.2 代理商入驻](3/34-dai-li-shang-ru-zhu.md)
+  * [4.2 企业入驻](3/34-dai-li-shang-ru-zhu.md)
 * [5. 充佣宝开户](5.md)
   * [5.1 资料收集](5/51-zi-liao-shou-ji.md)
   * [5.2 资料上传](5/52-zi-liao-shang-chuan.md)
@@ -27,5 +27,5 @@
   * [8.1 充佣宝回款](7/81-chong-yong-bao-hui-kuan.md)
   * [8.2 充佣宝还款](7/82-chong-yong-bao-huan-kuan.md)
 * [9. 充佣宝原件管理](8.md)
-* [操作手](cao-zuo-shou.md)
+* [10. 充佣宝资料变更管理](10.md)
 
