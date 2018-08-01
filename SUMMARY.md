@@ -2,7 +2,7 @@
 
 * [销冠充佣宝操作手册V1.2版](cao-zuo-shou.md)
 * [1. 销冠充佣宝简介](README.md)
-* [2. 销冠充佣宝业务流程](chapter1.md)
+* [2. 充佣宝业务流程](chapter1.md)
 * [3. 工作职能及作业标准](2.md)
 * [4. 充佣宝入驻](3.md)
   * [4.1 合同上线](3/31-kai-fa-shang-he-tong-chuang-jian.md)
