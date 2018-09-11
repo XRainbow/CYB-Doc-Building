@@ -15,7 +15,7 @@
 * [6. 充佣宝订单管理](4.md)
   * [6.1 成交订单导入](4/41-cheng-jiao-ding-dan-dao-ru.md)
   * [6.2 成交订单审核](4/42-cheng-jiao-ding-dan-shen-he.md)
-  * [6.3 成交订单编辑](4/43-cheng-jiao-ding-dan-bian-ji.md)
+  * [6.3 成交订单拆分](4/43-cheng-jiao-ding-dan-bian-ji.md)
   * [6.4 结佣开票审核](4/64-jie-yong-kai-piao.md)
 * [7. 充佣宝申请](6.md)
   * [7.1 订单申请](6/61-ding-dan-shen-qing.md)
