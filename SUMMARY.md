@@ -22,7 +22,7 @@
   * [7.2 电子签约](6/62-ding-dan-qian-yue.md)
   * [7.3 订单审核](6/63-ding-dan-shen-he.md)
   * [7.4 进件放款](6/64-jin-jian-fang-kuan.md)
-  * [7.5 充佣宝打款](6/65-kai-piao-zhi-fu.md)
+  * [7.5 充佣宝支付](6/65-kai-piao-zhi-fu.md)
 * [8. 充佣宝回款还款](7.md)
   * [8.1 充佣宝回款](7/81-chong-yong-bao-hui-kuan.md)
   * [8.2 充佣宝还款](7/82-chong-yong-bao-huan-kuan.md)
