@@ -16,9 +16,9 @@
 
 ![](/assets/import.png懒投资)![](/assets/import.png懒投资2)
 
-![](/assets/import.png懒投资4)
+![](/assets/import.png对账账号)
 
-### 4）资方反正验证进度
+### 4）资方反馈开户验证进度
 
 ### 5）总部更新「已开户」状态，以下是开户状态解析：
 
