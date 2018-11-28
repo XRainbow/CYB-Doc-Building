@@ -34,15 +34,15 @@
 
 * 营业执照复印件模板
 
-![](/assets/import.png营业)
+![](/assets/import.png营业执照)
 
 * 银行开户许可证复印件模板
 
-![](/assets/import.png开户12)
+![](/assets/import.png开户许可证)
 
 * 法定代表人身份证复印件模板
 
-![](/assets/import.png法定)
+![](/assets/import.png法人代表)
 
 * 股东会决议模板，但是自然法人的名字必须与启信宝备案自然法人信息一致
 
@@ -50,11 +50,11 @@
 
 * 签字印章授权书
 
-![](/assets/import.png签字)
+
 
 * 预留签字印章样本证明
 
-![](/assets/import.png预留)
+
 
 * 上上签企业服务授权书
 
